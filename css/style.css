@@ -1,0 +1,49 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.header{
+    background-color: blue;
+    color: white;
+    height: 100px;
+    text-align: center;
+}
+.banner{
+    background-color: coral;
+    color: white;
+    height: 500px;
+    text-align: center;
+
+}
+
+.footer{
+    background-color:black;
+    color: white;
+    height: 80px;
+    text-align: center;
+}
+.portfolio{
+    display: flex;
+}
+.left_side{
+    width: 50%;
+    height: 400px;
+    background-color: burlywood;
+}
+.right_side{
+    width: 50%;
+    height: 400px;
+    background-color:crimson;
+}
+.top{
+    height: 50%;
+    background-color: chartreuse;
+    color: white;
+
+}
+.bottom{
+    height: 50%;
+    background-color:brown;
+    color: white;
+}
